@@ -36,7 +36,7 @@ global.mess = {
     group: 'Cuma group dek!',
     private: 'Hanya Untuk Private Chat!',
     bot: 'Khusus Pengguna Nomor Bot',
-    wait: '_*MOHON MENUNGGU YA KONTOL*_',
+    wait: '_*MOHON MENUNGGU YA ANAK KONTOL, MEMEK, TELASO, ANJ, PELER, ASW, JANCOK, NGENTOD, NJING, PEPEK*_',
     endLimit: 'Limit Harian Lu Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
